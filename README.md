@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/carlangascacz" target="blank"><img src="https://img.shields.io/twitter/follow/carlangascacz?logo=twitter&style=for-the-badge" alt="carlangascacz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [carloscasanova.dev](carloscasanova.dev)
+- 👨‍💻 All of my projects are available at [carloscasanova.dev](https://www.carloscasanova.dev)
 
 - 📫 How to reach me **info@carloscasanova.dev**
 
