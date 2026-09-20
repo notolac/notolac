@@ -9,29 +9,29 @@
 <line x1="20" y1="44" x2="320" y2="44" stroke="#21262d" stroke-width="1"/>
 <circle cx="26" cy="62" r="5" fill="#3572A5"/>
 <text x="38" y="66" font-size="12" font-weight="600" fill="#e6edf3">Python</text>
-<text x="320" y="66" font-size="12" fill="#7d8590" text-anchor="end">75.3%</text>
+<text x="320" y="66" font-size="12" fill="#7d8590" text-anchor="end">76.4%</text>
 <rect x="20" y="73" width="200" height="6" rx="3" fill="#21262d"/>
 <rect x="20" y="73" width="200.0" height="6" rx="3" fill="#3572A5"/>
 <circle cx="26" cy="98" r="5" fill="#89e051"/>
 <text x="38" y="102" font-size="12" font-weight="600" fill="#e6edf3">Shell</text>
-<text x="320" y="102" font-size="12" fill="#7d8590" text-anchor="end">12.0%</text>
+<text x="320" y="102" font-size="12" fill="#7d8590" text-anchor="end">11.5%</text>
 <rect x="20" y="109" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="109" width="31.9" height="6" rx="3" fill="#89e051"/>
+<rect x="20" y="109" width="30.1" height="6" rx="3" fill="#89e051"/>
 <circle cx="26" cy="134" r="5" fill="#3178c6"/>
 <text x="38" y="138" font-size="12" font-weight="600" fill="#e6edf3">TypeScript</text>
-<text x="320" y="138" font-size="12" fill="#7d8590" text-anchor="end">10.7%</text>
+<text x="320" y="138" font-size="12" fill="#7d8590" text-anchor="end">10.2%</text>
 <rect x="20" y="145" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="145" width="28.4" height="6" rx="3" fill="#3178c6"/>
+<rect x="20" y="145" width="26.8" height="6" rx="3" fill="#3178c6"/>
 <circle cx="26" cy="170" r="5" fill="#427819"/>
 <text x="38" y="174" font-size="12" font-weight="600" fill="#e6edf3">Makefile</text>
 <text x="320" y="174" font-size="12" fill="#7d8590" text-anchor="end">1.2%</text>
 <rect x="20" y="181" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="181" width="3.2" height="6" rx="3" fill="#427819"/>
+<rect x="20" y="181" width="3.0" height="6" rx="3" fill="#427819"/>
 <circle cx="26" cy="206" r="5" fill="#384d54"/>
 <text x="38" y="210" font-size="12" font-weight="600" fill="#e6edf3">Dockerfile</text>
 <text x="320" y="210" font-size="12" fill="#7d8590" text-anchor="end">0.3%</text>
 <rect x="20" y="217" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="217" width="0.9" height="6" rx="3" fill="#384d54"/>
+<rect x="20" y="217" width="0.8" height="6" rx="3" fill="#384d54"/>
 <circle cx="26" cy="242" r="5" fill="#563d7c"/>
 <text x="38" y="246" font-size="12" font-weight="600" fill="#e6edf3">CSS</text>
 <text x="320" y="246" font-size="12" fill="#7d8590" text-anchor="end">0.2%</text>
