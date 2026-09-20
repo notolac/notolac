@@ -3,28 +3,28 @@
 <title id="t-langs">Most used languages</title>
 <text x="24" y="34" font-size="15" font-weight="700" fill="#fe428e">Most Used Languages</text>
 <circle cx="96" cy="112" r="46" fill="none" stroke="#2a2941" stroke-width="16"/>
-<circle cx="96" cy="112" r="46" fill="none" stroke="#3572A5" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-0.00" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="220.50 289.03" dur="1s" begin="0.15s" fill="freeze"/></circle>
-<circle cx="96" cy="112" r="46" fill="none" stroke="#89e051" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-222.00" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="31.13 289.03" dur="1s" begin="0.25s" fill="freeze"/></circle>
-<circle cx="96" cy="112" r="46" fill="none" stroke="#3178c6" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-254.62" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="27.59 289.03" dur="1s" begin="0.35s" fill="freeze"/></circle>
-<circle cx="96" cy="112" r="46" fill="none" stroke="#427819" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-283.71" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="1.77 289.03" dur="1s" begin="0.45s" fill="freeze"/></circle>
-<circle cx="96" cy="112" r="46" fill="none" stroke="#384d54" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-286.98" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="0.00 289.03" dur="1s" begin="0.55s" fill="freeze"/></circle>
-<circle cx="96" cy="112" r="46" fill="none" stroke="#39d353" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-287.87" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="0.00 289.03" dur="1s" begin="0.65s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#3572A5" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-0.00" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="221.17 289.03" dur="1s" begin="0.15s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#89e051" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-222.67" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="30.80 289.03" dur="1s" begin="0.25s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#3178c6" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-254.97" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="27.29 289.03" dur="1s" begin="0.35s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#427819" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-283.76" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="1.74 289.03" dur="1s" begin="0.45s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#384d54" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-287.00" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="0.00 289.03" dur="1s" begin="0.55s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#39d353" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-287.88" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="0.00 289.03" dur="1s" begin="0.65s" fill="freeze"/></circle>
 <text x="96" y="117" font-size="14" font-weight="700" fill="#a9fef7" text-anchor="middle">8</text>
 <text x="96" y="131" font-size="9" fill="#8b88a8" text-anchor="middle">languages</text>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
 <circle cx="186" cy="58" r="5" fill="#3572A5"/>
 <text x="200" y="62" font-size="12" font-weight="600" fill="#a9fef7">Python</text>
-<text x="416" y="62" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">76.8%</text>
+<text x="416" y="62" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">77.0%</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
 <circle cx="186" cy="80" r="5" fill="#89e051"/>
 <text x="200" y="84" font-size="12" font-weight="600" fill="#a9fef7">Shell</text>
-<text x="416" y="84" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">11.3%</text>
+<text x="416" y="84" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">11.2%</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
 <circle cx="186" cy="102" r="5" fill="#3178c6"/>
 <text x="200" y="106" font-size="12" font-weight="600" fill="#a9fef7">TypeScript</text>
-<text x="416" y="106" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">10.1%</text>
+<text x="416" y="106" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">10.0%</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
 <circle cx="186" cy="124" r="5" fill="#427819"/>

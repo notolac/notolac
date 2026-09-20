@@ -10,7 +10,7 @@
 </g>
 <path d="M 220.0 36 A 38 38 0 1 1 220.0 112 A 38 38 0 1 1 220.0 36" fill="none" stroke="#fe428e" stroke-width="5" stroke-linecap="round" stroke-dasharray="238.8" stroke-dashoffset="238.8"><animate attributeName="stroke-dashoffset" from="238.8" to="0" dur="1.2s" begin="0.2s" fill="freeze"/></path>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.6s" fill="freeze"/>
-<text x="220.0" y="83" font-size="26" font-weight="700" fill="#f8d847" text-anchor="middle">115</text>
+<text x="220.0" y="83" font-size="26" font-weight="700" fill="#f8d847" text-anchor="middle">116</text>
 <text x="220.0" y="134" font-size="13" font-weight="700" fill="#f8d847" text-anchor="middle">Contributions</text>
 <text x="220.0" y="154" font-size="11" fill="#a9fef7" text-anchor="middle">last 12 months</text>
 </g>

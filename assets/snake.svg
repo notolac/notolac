@@ -368,7 +368,7 @@
 <rect x="830" y="78" width="13" height="13" rx="3" fill="#0e4429"><title>2026-09-17: 1 contribution</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.50262;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="830" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-18: 0 contributions</title></rect>
 <rect x="830" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-19: 0 contributions</title></rect>
-<rect x="846" y="14" width="13" height="13" rx="3" fill="#006d32"><title>2026-09-20: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.47644;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="846" y="14" width="13" height="13" rx="3" fill="#26a641"><title>2026-09-20: 3 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.47644;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="846" y="30" width="13" height="13" rx="3" fill="#2a2941"/>
 <rect x="846" y="46" width="13" height="13" rx="3" fill="#2a2941"/>
 <rect x="846" y="62" width="13" height="13" rx="3" fill="#2a2941"/>
