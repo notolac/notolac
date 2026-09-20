@@ -1,28 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img">
-<defs>
-<linearGradient id="bg-stats" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
-<linearGradient id="ac-stats" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39d353"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
-</defs>
-<rect x="0.5" y="0.5" width="419" height="199" rx="8" fill="url(#bg-stats)" stroke="#21262d"/>
-<rect x="0.5" y="0.5" width="419" height="3" rx="1.5" fill="url(#ac-stats)"/>
-<text x="20" y="34" font-size="15" font-weight="700" fill="#58a6ff">notolac's GitHub stats</text>
-<line x1="20" y1="44" x2="400" y2="44" stroke="#21262d" stroke-width="1"/>
-<circle cx="26" cy="66" r="9" fill="#39d353" opacity="0.18"/>
-<text x="26" y="70" font-size="12" fill="#39d353" text-anchor="middle">★</text>
-<text x="44" y="70" font-size="13" fill="#7d8590">Total stars</text>
-<text x="396" y="70" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="end">8</text>
-<circle cx="26" cy="96" r="9" fill="#a371f7" opacity="0.18"/>
-<text x="26" y="100" font-size="12" fill="#a371f7" text-anchor="middle">▦</text>
-<text x="44" y="100" font-size="13" fill="#7d8590">Contributions (last year)</text>
-<text x="396" y="100" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="end">116</text>
-<circle cx="26" cy="126" r="9" fill="#58a6ff" opacity="0.18"/>
-<text x="26" y="130" font-size="12" fill="#58a6ff" text-anchor="middle">▣</text>
-<text x="44" y="130" font-size="13" fill="#7d8590">Public repositories</text>
-<text x="396" y="130" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="end">7</text>
-<circle cx="26" cy="156" r="9" fill="#f78166" opacity="0.18"/>
-<text x="26" y="160" font-size="12" fill="#f78166" text-anchor="middle">◉</text>
-<text x="44" y="160" font-size="13" fill="#7d8590">Followers</text>
-<text x="396" y="160" font-size="14" font-weight="700" fill="#e6edf3" text-anchor="end">5</text>
-<text x="408" y="190" font-size="10" fill="#7d8590" text-anchor="end">updated 2026-09-20</text>
-<style>@media (prefers-color-scheme: light) { text { fill: #1f2328 !important; } .muted { fill: #57606a !important; }}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="190" viewBox="0 0 440 190" font-family="'Segoe UI',Ubuntu,-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" role="img" aria-labelledby="t-stats">
+<rect x="0.5" y="0.5" width="439" height="189" rx="6" fill="#141321" stroke="#e4e2e2" stroke-opacity="0.9"/>
+<title id="t-stats">GitHub stats</title>
+<line x1="146.7" y1="30" x2="146.7" y2="160" stroke="#e4e2e2" stroke-opacity="0.35"/>
+<line x1="293.3" y1="30" x2="293.3" y2="160" stroke="#e4e2e2" stroke-opacity="0.35"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.1s" fill="freeze"/>
+<text x="73.33333333333333" y="84" font-size="28" font-weight="700" fill="#fe428e" text-anchor="middle">8</text>
+<text x="73.33333333333333" y="112" font-size="13" font-weight="600" fill="#fe428e" text-anchor="middle">Total Stars</text>
+<text x="73.33333333333333" y="136" font-size="11" fill="#a9fef7" text-anchor="middle">across 7 public repos</text>
+</g>
+<path d="M 220.0 36 A 38 38 0 1 1 220.0 112 A 38 38 0 1 1 220.0 36" fill="none" stroke="#fe428e" stroke-width="5" stroke-linecap="round" stroke-dasharray="238.8" stroke-dashoffset="238.8"><animate attributeName="stroke-dashoffset" from="238.8" to="0" dur="1.2s" begin="0.2s" fill="freeze"/></path>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.6s" fill="freeze"/>
+<text x="220.0" y="83" font-size="26" font-weight="700" fill="#f8d847" text-anchor="middle">114</text>
+<text x="220.0" y="134" font-size="13" font-weight="700" fill="#f8d847" text-anchor="middle">Contributions</text>
+<text x="220.0" y="154" font-size="11" fill="#a9fef7" text-anchor="middle">last 12 months</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.3s" fill="freeze"/>
+<text x="366.6666666666667" y="84" font-size="28" font-weight="700" fill="#fe428e" text-anchor="middle">5</text>
+<text x="366.6666666666667" y="112" font-size="13" font-weight="600" fill="#fe428e" text-anchor="middle">Followers</text>
+<text x="366.6666666666667" y="136" font-size="11" fill="#a9fef7" text-anchor="middle">following 11</text>
+</g>
 </svg>

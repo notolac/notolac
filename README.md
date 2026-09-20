@@ -21,6 +21,29 @@ What I do day to day:
 
 > 📖 This profile mirrors [carloscasanova.dev](https://carloscasanova.dev) — full résumé, credentials, talks and contact live there.
 
+## GitHub activity
+
+<div align="center">
+  <img src="assets/stats.svg" alt="GitHub stats: stars, contributions in the last 12 months, followers" />
+  <img src="assets/streak.svg" alt="Contribution streak: total contributions, current and longest streak" />
+  <br />
+  <img src="assets/top-langs.svg" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="assets/snake.svg" alt="Snake eating my GitHub contributions of the last 12 months" />
+</div>
+
+<p align="center"><sub>Cards are rendered daily from the GitHub API by <a href="tools/generate.py"><code>tools/generate.py</code></a> — no third-party services.</sub></p>
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [discord-bot](https://github.com/notolac/discord-bot) | Monorepo of Discord bots on the HTTP Interactions model (FastAPI endpoint + Ed25519 verification) with a shared `discord_core` library, local docs mirror and agent skills. | `Python 3.14` `uv` `FastAPI` |
+| [docker-compose-portainer](https://github.com/notolac/docker-compose-portainer) | 40+ Docker Compose / Swarm stacks for self-hosting through Portainer or the CLI — generic, reusable manifests, no personal infrastructure details. | `Docker Compose` `Swarm` `Portainer` |
+| [master-cybersecurity](https://github.com/notolac/master-cybersecurity) | Coursework and labs from my Master's in Cybersecurity (IMMUNE): malware analysis, ethical hacking, cryptography and security auditing. | `Python` |
+
 ## Tech stack
 
 **☁️ Cloud & Infrastructure**
@@ -131,25 +154,6 @@ What I do day to day:
   <a href="https://hermes.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hermes.svg" height="40" alt="Hermes" /></a>
 </div>
 
-## Stats
-
-<div align="center">
-  <img src="assets/stats.svg" alt="GitHub stats" />
-  <img src="assets/streak.svg" alt="Contribution streak" />
-  <br />
-  <img src="assets/top-langs.svg" alt="Most used languages" />
-  <br />
-  <img src="assets/activity.svg" alt="Contribution activity" />
-</div>
-
-## Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [discord-bot](https://github.com/notolac/discord-bot) | Monorepo of Discord bots on the HTTP Interactions model (FastAPI endpoint + Ed25519 verification) with a shared `discord_core` library, local docs mirror and agent skills. | `Python 3.14` `uv` `FastAPI` |
-| [docker-compose-portainer](https://github.com/notolac/docker-compose-portainer) | 40+ Docker Compose / Swarm stacks for self-hosting through Portainer or the CLI — generic, reusable manifests, no personal infrastructure details. | `Docker Compose` `Swarm` `Portainer` |
-| [master-cybersecurity](https://github.com/notolac/master-cybersecurity) | Coursework and labs from my Master's in Cybersecurity (IMMUNE): malware analysis, ethical hacking, cryptography and security auditing. | `Python` |
-
 ## Credentials & community
 
 - 🎓 Master's in Cybersecurity — IMMUNE Technology Institute
@@ -164,9 +168,3 @@ Full list with credentials on [carloscasanova.dev](https://carloscasanova.dev).
 - 🌐 [carloscasanova.dev](https://carloscasanova.dev)
 - ✉️ [info@carloscasanova.dev](mailto:info@carloscasanova.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/carlos-casanova-4703b8137)
-
----
-
-<div align="center">
-  <img src="assets/snake.svg" alt="Contribution snake" />
-</div>

@@ -1,8 +1,9 @@
 name: Update profile assets
 
-# Self-hosted profile cards: stats, top languages, streak, activity heatmap
-# and the contribution snake. No third-party actions or services involved —
-# only the GitHub API (via GITHUB_TOKEN) and tools/generate.py (stdlib only).
+# Self-hosted profile cards: stats, streak, top languages and the snake game
+# over the real contribution grid. No third-party actions or services
+# involved — only the GitHub API (via GITHUB_TOKEN) and tools/generate.py
+# (stdlib only).
 #
 # Pushes made with GITHUB_TOKEN do not trigger new workflow runs, so the
 # auto-commit below cannot cause an infinite loop.
