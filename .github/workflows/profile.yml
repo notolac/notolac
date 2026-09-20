@@ -1,0 +1,43 @@
+name: Update profile assets
+
+# Self-hosted profile cards: stats, top languages, streak, activity heatmap
+# and the contribution snake. No third-party actions or services involved —
+# only the GitHub API (via GITHUB_TOKEN) and tools/generate.py (stdlib only).
+#
+# Pushes made with GITHUB_TOKEN do not trigger new workflow runs, so the
+# auto-commit below cannot cause an infinite loop.
+
+on:
+  schedule:
+    - cron: "20 6 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "tools/**"
+      - ".github/workflows/profile.yml"
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: notolac
+        run: python3 tools/generate.py
+
+      - name: Commit refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --quiet --cached || git commit -m "chore(profile): refresh stats & snake [skip ci]"
+          git push
