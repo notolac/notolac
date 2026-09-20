@@ -34,7 +34,7 @@ What I do day to day:
   <img src="assets/snake.svg" alt="Snake eating my GitHub contributions of the last 12 months" />
 </div>
 
-<p align="center"><sub>Cards are rendered daily from the GitHub API by <a href="tools/generate.py"><code>tools/generate.py</code></a> — no third-party services.</sub></p>
+<p align="center"><sub>Cards refresh daily at 06:20 UTC via GitHub Actions (<a href="tools/generate.py"><code>tools/generate.py</code></a>) — no third-party stats services. Best viewed on GitHub; local Markdown previews don't render GitHub's HTML/SVG the same way.</sub></p>
 
 ## Featured projects
 
@@ -48,110 +48,166 @@ What I do day to day:
 
 **☁️ Cloud & Infrastructure**
 <div>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" /></a>
   <img width="12" />
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" /></a>
+  <a href="https://aws.amazon.com/"><img src="assets/icons/aws.png" height="40" alt="AWS" /></a>
   <img width="12" />
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" /></a>
+  <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" /></a>
   <img width="12" />
-  <a href="https://www.vmware.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="40" alt="Virtualization" /></a>
+  <a href="https://www.vmware.com/"><img src="assets/icons/vmware.png" height="40" alt="VMware" /></a>
+  <img width="12" />
+  <a href="https://www.proxmox.com/"><img src="assets/icons/proxmox.png" height="40" alt="Proxmox" /></a>
+  <img width="12" />
+  <a href="https://www.hostinger.com/"><img src="assets/icons/hostinger.png" height="40" alt="Hostinger" /></a>
 </div>
-
-`VMware vSphere` `Proxmox` `Hostinger`
 
 **🐳 Containers & DevOps**
 <div>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" /></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /></a>
   <img width="12" />
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" /></a>
+  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" /></a>
   <img width="12" />
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="40" alt="Ansible" /></a>
+  <a href="https://www.ansible.com/"><img src="assets/icons/ansible.png" height="40" alt="Ansible" /></a>
   <img width="12" />
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" /></a>
+  <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" /></a>
   <img width="12" />
-  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" /></a>
+  <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" /></a>
   <img width="12" />
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" /></a>
+  <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" /></a>
 </div>
 
 **🖥️ Operating Systems**
 <div>
-  <a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /></a>
+  <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /></a>
   <img width="12" />
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="Ubuntu" /></a>
+  <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu" /></a>
   <img width="12" />
-  <a href="https://www.apple.com/macos/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="macOS" /></a>
+  <a href="https://www.apple.com/macos/"><img src="assets/icons/apple.png" height="40" alt="macOS" /></a>
   <img width="12" />
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" /></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" /></a>
+  <img width="12" />
+  <a href="https://www.kali.org/"><img src="assets/icons/kali.png" height="40" alt="Kali" /></a>
+  <img width="12" />
+  <a href="https://www.parrotsec.org/"><img src="assets/icons/parrotos.png" height="40" alt="ParrotOS" /></a>
 </div>
-
-`Kali` `ParrotOS`
 
 **⌨️ Programming & Scripting**
 <div>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
   <img width="12" />
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="assets/icons/bash.png" height="40" alt="Bash" /></a>
   <img width="12" />
-  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell" /></a>
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell" /></a>
+  <img width="12" />
+  <a href="https://developers.google.com/apps-script"><img src="assets/icons/apps-script.png" height="40" alt="Google Apps Script" /></a>
 </div>
-
-`Google Apps Script`
 
 **🔐 Security & Identity**
 <div>
-  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" /></a>
+  <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" /></a>
+  <img width="12" />
+  <a href="https://www.wireguard.com/"><img src="assets/icons/wireguard.png" height="40" alt="WireGuard" /></a>
+  <img width="12" />
+  <a href="https://openvpn.net/"><img src="assets/icons/openvpn.png" height="40" alt="OpenVPN" /></a>
+  <img width="12" />
+  <a href="https://any.run/"><img src="assets/icons/anyrun.png" height="40" alt="Any.Run" /></a>
+  <img width="12" />
+  <a href="https://www.sentinelone.com/"><img src="assets/icons/sentinelone.png" height="40" alt="SentinelOne" /></a>
+  <img width="12" />
+  <a href="https://www.culture.ai/"><img src="assets/icons/cultureai.png" height="40" alt="CultureAI" /></a>
+  <img width="12" />
+  <a href="https://cloud.google.com/security/products/security-operations"><img src="assets/icons/google-secops.png" height="40" alt="Google SecOps" /></a>
 </div>
 
-`SSO` `SAML` `OpenID` `SCIM` `ZeroTrust` `WireGuard` `OpenVPN` `Any.Run` `SentinelOne` `CultureAI` `Google SecOps`
+`SSO` `SAML` `OpenID` `SCIM` `Zero Trust`
 
 **⚙️ Systems Administration**
 <div>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="Jira" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" /></a>
   <img width="12" />
-  <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" height="40" alt="Confluence" /></a>
+  <a href="https://www.atlassian.com/software/confluence"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="Confluence" /></a>
   <img width="12" />
-  <a href="https://slack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack" /></a>
+  <a href="https://slack.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack" /></a>
   <img width="12" />
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" /></a>
+  <a href="https://github.com/"><img src="assets/icons/github.png" height="40" alt="GitHub" /></a>
+  <img width="12" />
+  <a href="https://www.onelogin.com/"><img src="assets/icons/onelogin.png" height="40" alt="OneLogin" /></a>
+  <img width="12" />
+  <a href="https://www.okta.com/"><img src="assets/icons/okta.png" height="40" alt="Okta" /></a>
+  <img width="12" />
+  <a href="https://workspace.google.com/"><img src="assets/icons/google-workspace.png" height="40" alt="Google Workspace" /></a>
 </div>
-
-`OneLogin` `Okta` `Google Workspace`
 
 **🗄️ Databases & Web**
 <div>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /></a>
   <img width="12" />
-  <a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" /></a>
+  <a href="https://nginx.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" /></a>
   <img width="12" />
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" /></a>
+  <a href="https://www.djangoproject.com/"><img src="assets/icons/django.png" height="40" alt="Django" /></a>
   <img width="12" />
-  <a href="https://wordpress.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" /></a>
+  <a href="https://wordpress.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" /></a>
   <img width="12" />
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" /></a>
   <img width="12" />
-  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" /></a>
+  <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" /></a>
   <img width="12" />
-  <a href="https://astro.build/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="Astro" /></a>
+  <a href="https://astro.build/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="Astro" /></a>
+  <img width="12" />
+  <a href="https://www.odoo.com/"><img src="assets/icons/odoo.png" height="40" alt="Odoo" /></a>
+  <img width="12" />
+  <a href="https://ghost.org/"><img src="assets/icons/ghost.png" height="40" alt="Ghost" /></a>
 </div>
 
-`Odoo` `Ghost` `RAG` `Vector DB`
+`RAG` `Vector DB`
 
 **🤖 Automation**
-
-`n8n` `Make` `Jira Automations` `AWS Lambda` `Google Cloud Functions` `Azure Functions` `GitHub Actions`
+<div>
+  <a href="https://n8n.io/"><img src="assets/icons/n8n.png" height="40" alt="n8n" /></a>
+  <img width="12" />
+  <a href="https://www.make.com/"><img src="assets/icons/make.png" height="40" alt="Make" /></a>
+  <img width="12" />
+  <a href="https://www.atlassian.com/software/jira/features/automation"><img src="assets/icons/jira.png" height="40" alt="Jira Automations" /></a>
+  <img width="12" />
+  <a href="https://aws.amazon.com/lambda/"><img src="assets/icons/aws.png" height="40" alt="AWS Lambda" /></a>
+  <img width="12" />
+  <a href="https://cloud.google.com/functions"><img src="assets/icons/gcp.png" height="40" alt="Google Cloud Functions" /></a>
+  <img width="12" />
+  <a href="https://azure.microsoft.com/products/functions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure Functions" /></a>
+  <img width="12" />
+  <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" /></a>
+</div>
 
 **🧠 AI Tools**
-
-`OpenAI` `Claude` `Gemini` `VertexAI` `Google AI Studio` `LiteLLM` `Ollama` `NotebookLM` `Perplexity` `Rovo`
+<div>
+  <a href="https://openai.com/"><img src="assets/icons/openai.png" height="40" alt="OpenAI" /></a>
+  <img width="12" />
+  <a href="https://claude.ai/"><img src="assets/icons/claude.png" height="40" alt="Claude" /></a>
+  <img width="12" />
+  <a href="https://gemini.google.com/"><img src="assets/icons/gemini.png" height="40" alt="Gemini" /></a>
+  <img width="12" />
+  <a href="https://cloud.google.com/vertex-ai"><img src="assets/icons/vertexai.png" height="40" alt="Vertex AI" /></a>
+  <img width="12" />
+  <a href="https://aistudio.google.com/"><img src="assets/icons/ai-studio.png" height="40" alt="Google AI Studio" /></a>
+  <img width="12" />
+  <a href="https://www.litellm.ai/"><img src="assets/icons/litellm.png" height="40" alt="LiteLLM" /></a>
+  <img width="12" />
+  <a href="https://ollama.com/"><img src="assets/icons/ollama.png" height="40" alt="Ollama" /></a>
+  <img width="12" />
+  <a href="https://notebooklm.google.com/"><img src="assets/icons/notebooklm.png" height="40" alt="NotebookLM" /></a>
+  <img width="12" />
+  <a href="https://www.perplexity.ai/"><img src="assets/icons/perplexity.png" height="40" alt="Perplexity" /></a>
+  <img width="12" />
+  <a href="https://www.atlassian.com/software/rovo"><img src="assets/icons/rovo.png" height="40" alt="Rovo" /></a>
+</div>
 
 **🛠️ Daily driver**
 <div>
-  <a href="https://cursor.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cursor.svg" height="40" alt="Cursor" /></a>
+  <a href="https://cursor.com/"><img src="assets/icons/cursor.png" height="40" alt="Cursor" /></a>
   <img width="12" />
-  <a href="https://opencode.ai/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/opencode.svg" height="40" alt="OpenCode" /></a>
+  <a href="https://opencode.ai/"><img src="assets/icons/opencode.png" height="40" alt="OpenCode" /></a>
   <img width="12" />
-  <a href="https://hermes.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hermes.svg" height="40" alt="Hermes" /></a>
+  <a href="https://hermes-agent.nousresearch.com/"><img src="assets/icons/hermes.png" height="40" alt="Hermes Agent" /></a>
 </div>
 
 ## Credentials & community
