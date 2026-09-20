@@ -1,42 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="298" viewBox="0 0 340 298" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" role="img">
-<defs>
-<linearGradient id="bg-langs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
-<linearGradient id="ac-langs" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f78166"/><stop offset="1" stop-color="#39d353"/></linearGradient>
-</defs>
-<rect x="0.5" y="0.5" width="339" height="297" rx="8" fill="url(#bg-langs)" stroke="#21262d"/>
-<rect x="0.5" y="0.5" width="339" height="3" rx="1.5" fill="url(#ac-langs)"/>
-<text x="20" y="34" font-size="15" font-weight="700" fill="#58a6ff">Most used languages</text>
-<line x1="20" y1="44" x2="320" y2="44" stroke="#21262d" stroke-width="1"/>
-<circle cx="26" cy="62" r="5" fill="#3572A5"/>
-<text x="38" y="66" font-size="12" font-weight="600" fill="#e6edf3">Python</text>
-<text x="320" y="66" font-size="12" fill="#7d8590" text-anchor="end">76.4%</text>
-<rect x="20" y="73" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="73" width="200.0" height="6" rx="3" fill="#3572A5"/>
-<circle cx="26" cy="98" r="5" fill="#89e051"/>
-<text x="38" y="102" font-size="12" font-weight="600" fill="#e6edf3">Shell</text>
-<text x="320" y="102" font-size="12" fill="#7d8590" text-anchor="end">11.5%</text>
-<rect x="20" y="109" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="109" width="30.1" height="6" rx="3" fill="#89e051"/>
-<circle cx="26" cy="134" r="5" fill="#3178c6"/>
-<text x="38" y="138" font-size="12" font-weight="600" fill="#e6edf3">TypeScript</text>
-<text x="320" y="138" font-size="12" fill="#7d8590" text-anchor="end">10.2%</text>
-<rect x="20" y="145" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="145" width="26.8" height="6" rx="3" fill="#3178c6"/>
-<circle cx="26" cy="170" r="5" fill="#427819"/>
-<text x="38" y="174" font-size="12" font-weight="600" fill="#e6edf3">Makefile</text>
-<text x="320" y="174" font-size="12" fill="#7d8590" text-anchor="end">1.2%</text>
-<rect x="20" y="181" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="181" width="3.0" height="6" rx="3" fill="#427819"/>
-<circle cx="26" cy="206" r="5" fill="#384d54"/>
-<text x="38" y="210" font-size="12" font-weight="600" fill="#e6edf3">Dockerfile</text>
-<text x="320" y="210" font-size="12" fill="#7d8590" text-anchor="end">0.3%</text>
-<rect x="20" y="217" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="217" width="0.8" height="6" rx="3" fill="#384d54"/>
-<circle cx="26" cy="242" r="5" fill="#563d7c"/>
-<text x="38" y="246" font-size="12" font-weight="600" fill="#e6edf3">CSS</text>
-<text x="320" y="246" font-size="12" fill="#7d8590" text-anchor="end">0.2%</text>
-<rect x="20" y="253" width="200" height="6" rx="3" fill="#21262d"/>
-<rect x="20" y="253" width="0.6" height="6" rx="3" fill="#563d7c"/>
-<text x="328" y="288" font-size="10" fill="#7d8590" text-anchor="end">updated 2026-09-20</text>
-<style>@media (prefers-color-scheme: light) { text { fill: #1f2328 !important; } .muted { fill: #57606a !important; }}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="190" viewBox="0 0 440 190" font-family="'Segoe UI',Ubuntu,-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" role="img" aria-labelledby="t-langs">
+<rect x="0.5" y="0.5" width="439" height="189" rx="6" fill="#141321" stroke="#e4e2e2" stroke-opacity="0.9"/>
+<title id="t-langs">Most used languages</title>
+<text x="24" y="34" font-size="15" font-weight="700" fill="#fe428e">Most Used Languages</text>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#2a2941" stroke-width="16"/>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#3572A5" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-0.00" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="219.34 289.03" dur="1s" begin="0.15s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#89e051" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-220.84" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="31.69 289.03" dur="1s" begin="0.25s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#3178c6" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-254.03" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="28.09 289.03" dur="1s" begin="0.35s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#427819" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-283.62" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="1.83 289.03" dur="1s" begin="0.45s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#384d54" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-286.95" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="0.00 289.03" dur="1s" begin="0.55s" fill="freeze"/></circle>
+<circle cx="96" cy="112" r="46" fill="none" stroke="#39d353" stroke-width="16" stroke-dasharray="0 289.03" stroke-dashoffset="-287.85" transform="rotate(-90 96 112)"><animate attributeName="stroke-dasharray" from="0 289.03" to="0.00 289.03" dur="1s" begin="0.65s" fill="freeze"/></circle>
+<text x="96" y="117" font-size="14" font-weight="700" fill="#a9fef7" text-anchor="middle">8</text>
+<text x="96" y="131" font-size="9" fill="#8b88a8" text-anchor="middle">languages</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
+<circle cx="186" cy="58" r="5" fill="#3572A5"/>
+<text x="200" y="62" font-size="12" font-weight="600" fill="#a9fef7">Python</text>
+<text x="416" y="62" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">76.4%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
+<circle cx="186" cy="80" r="5" fill="#89e051"/>
+<text x="200" y="84" font-size="12" font-weight="600" fill="#a9fef7">Shell</text>
+<text x="416" y="84" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">11.5%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
+<circle cx="186" cy="102" r="5" fill="#3178c6"/>
+<text x="200" y="106" font-size="12" font-weight="600" fill="#a9fef7">TypeScript</text>
+<text x="416" y="106" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">10.2%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
+<circle cx="186" cy="124" r="5" fill="#427819"/>
+<text x="200" y="128" font-size="12" font-weight="600" fill="#a9fef7">Makefile</text>
+<text x="416" y="128" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">1.2%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+<circle cx="186" cy="146" r="5" fill="#384d54"/>
+<text x="200" y="150" font-size="12" font-weight="600" fill="#a9fef7">Dockerfile</text>
+<text x="416" y="150" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">0.3%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/>
+<circle cx="186" cy="168" r="5" fill="#39d353"/>
+<text x="200" y="172" font-size="12" font-weight="600" fill="#a9fef7">Other</text>
+<text x="416" y="172" font-size="12" font-weight="700" fill="#fe428e" text-anchor="end">0.4%</text>
+</g>
 </svg>
