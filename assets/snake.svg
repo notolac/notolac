@@ -11,7 +11,7 @@
 <rect x="14" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2025-09-25: 0 contributions</title></rect>
 <rect x="14" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2025-09-26: 0 contributions</title></rect>
 <rect x="14" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2025-09-27: 0 contributions</title></rect>
-<rect x="30" y="14" width="13" height="13" rx="3" fill="#006d32"><title>2025-09-28: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.01047;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="30" y="14" width="13" height="13" rx="3" fill="#0e4429"><title>2025-09-28: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.01047;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="30" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2025-09-29: 0 contributions</title></rect>
 <rect x="30" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2025-09-30: 0 contributions</title></rect>
 <rect x="30" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-01: 0 contributions</title></rect>
@@ -30,11 +30,11 @@
 <rect x="62" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-14: 0 contributions</title></rect>
 <rect x="62" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-15: 0 contributions</title></rect>
 <rect x="62" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-16: 0 contributions</title></rect>
-<rect x="62" y="94" width="13" height="13" rx="3" fill="#26a641"><title>2025-10-17: 3 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.86387;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="62" y="94" width="13" height="13" rx="3" fill="#006d32"><title>2025-10-17: 3 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.86387;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="62" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-18: 0 contributions</title></rect>
 <rect x="78" y="14" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-19: 0 contributions</title></rect>
 <rect x="78" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-20: 0 contributions</title></rect>
-<rect x="78" y="46" width="13" height="13" rx="3" fill="#006d32"><title>2025-10-21: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.03665;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="78" y="46" width="13" height="13" rx="3" fill="#0e4429"><title>2025-10-21: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.03665;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="78" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-22: 0 contributions</title></rect>
 <rect x="78" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-23: 0 contributions</title></rect>
 <rect x="78" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-24: 0 contributions</title></rect>
@@ -45,7 +45,7 @@
 <rect x="94" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-29: 0 contributions</title></rect>
 <rect x="94" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-30: 0 contributions</title></rect>
 <rect x="94" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2025-10-31: 0 contributions</title></rect>
-<rect x="94" y="110" width="13" height="13" rx="3" fill="#006d32"><title>2025-11-01: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.84817;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="94" y="110" width="13" height="13" rx="3" fill="#0e4429"><title>2025-11-01: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.84817;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="110" y="14" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-02: 0 contributions</title></rect>
 <rect x="110" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-03: 0 contributions</title></rect>
 <rect x="110" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-04: 0 contributions</title></rect>
@@ -57,17 +57,17 @@
 <rect x="126" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-10: 0 contributions</title></rect>
 <rect x="126" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-11: 0 contributions</title></rect>
 <rect x="126" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-12: 0 contributions</title></rect>
-<rect x="126" y="78" width="13" height="13" rx="3" fill="#006d32"><title>2025-11-13: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.82723;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="126" y="78" width="13" height="13" rx="3" fill="#0e4429"><title>2025-11-13: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.82723;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="126" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-14: 0 contributions</title></rect>
 <rect x="126" y="110" width="13" height="13" rx="3" fill="#0e4429"><title>2025-11-15: 1 contribution</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.83770;1" dur="19.1s" repeatCount="indefinite"/></rect>
-<rect x="142" y="14" width="13" height="13" rx="3" fill="#39d353"><title>2025-11-16: 4 contributions</title><animate attributeName="fill" calcMode="discrete" values="#39d353;#2a2941;#2a2941" keyTimes="0;0.06806;1" dur="19.1s" repeatCount="indefinite"/></rect>
-<rect x="142" y="30" width="13" height="13" rx="3" fill="#006d32"><title>2025-11-17: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.06283;1" dur="19.1s" repeatCount="indefinite"/></rect>
-<rect x="142" y="46" width="13" height="13" rx="3" fill="#006d32"><title>2025-11-18: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.05759;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="142" y="14" width="13" height="13" rx="3" fill="#006d32"><title>2025-11-16: 4 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.06806;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="142" y="30" width="13" height="13" rx="3" fill="#0e4429"><title>2025-11-17: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.06283;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="142" y="46" width="13" height="13" rx="3" fill="#0e4429"><title>2025-11-18: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.05759;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="142" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-19: 0 contributions</title></rect>
-<rect x="142" y="78" width="13" height="13" rx="3" fill="#26a641"><title>2025-11-20: 3 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.82199;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="142" y="78" width="13" height="13" rx="3" fill="#006d32"><title>2025-11-20: 3 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.82199;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="142" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-21: 0 contributions</title></rect>
 <rect x="142" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-22: 0 contributions</title></rect>
-<rect x="158" y="14" width="13" height="13" rx="3" fill="#006d32"><title>2025-11-23: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.07330;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="158" y="14" width="13" height="13" rx="3" fill="#0e4429"><title>2025-11-23: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.07330;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="158" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-24: 0 contributions</title></rect>
 <rect x="158" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-25: 0 contributions</title></rect>
 <rect x="158" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-11-26: 0 contributions</title></rect>
@@ -94,12 +94,12 @@
 <rect x="206" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-12-17: 0 contributions</title></rect>
 <rect x="206" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2025-12-18: 0 contributions</title></rect>
 <rect x="206" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2025-12-19: 0 contributions</title></rect>
-<rect x="206" y="110" width="13" height="13" rx="3" fill="#006d32"><title>2025-12-20: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.79058;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="206" y="110" width="13" height="13" rx="3" fill="#0e4429"><title>2025-12-20: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.79058;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="222" y="14" width="13" height="13" rx="3" fill="#39d353"><title>2025-12-21: 17 contributions</title><animate attributeName="fill" calcMode="discrete" values="#39d353;#2a2941;#2a2941" keyTimes="0;0.09424;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="222" y="30" width="13" height="13" rx="3" fill="#0e4429"><title>2025-12-22: 1 contribution</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.09948;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="222" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2025-12-23: 0 contributions</title></rect>
 <rect x="222" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2025-12-24: 0 contributions</title></rect>
-<rect x="222" y="78" width="13" height="13" rx="3" fill="#39d353"><title>2025-12-25: 6 contributions</title><animate attributeName="fill" calcMode="discrete" values="#39d353;#2a2941;#2a2941" keyTimes="0;0.77487;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="222" y="78" width="13" height="13" rx="3" fill="#26a641"><title>2025-12-25: 6 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.77487;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="222" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2025-12-26: 0 contributions</title></rect>
 <rect x="222" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2025-12-27: 0 contributions</title></rect>
 <rect x="238" y="14" width="13" height="13" rx="3" fill="#2a2941"><title>2025-12-28: 0 contributions</title></rect>
@@ -111,7 +111,7 @@
 <rect x="238" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-03: 0 contributions</title></rect>
 <rect x="254" y="14" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-04: 0 contributions</title></rect>
 <rect x="254" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-05: 0 contributions</title></rect>
-<rect x="254" y="46" width="13" height="13" rx="3" fill="#39d353"><title>2026-01-06: 6 contributions</title><animate attributeName="fill" calcMode="discrete" values="#39d353;#2a2941;#2a2941" keyTimes="0;0.11518;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="254" y="46" width="13" height="13" rx="3" fill="#26a641"><title>2026-01-06: 6 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.11518;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="254" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-07: 0 contributions</title></rect>
 <rect x="254" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-08: 0 contributions</title></rect>
 <rect x="254" y="94" width="13" height="13" rx="3" fill="#0e4429"><title>2026-01-09: 1 contribution</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.75916;1" dur="19.1s" repeatCount="indefinite"/></rect>
@@ -119,7 +119,7 @@
 <rect x="270" y="14" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-11: 0 contributions</title></rect>
 <rect x="270" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-12: 0 contributions</title></rect>
 <rect x="270" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-13: 0 contributions</title></rect>
-<rect x="270" y="62" width="13" height="13" rx="3" fill="#39d353"><title>2026-01-14: 5 contributions</title><animate attributeName="fill" calcMode="discrete" values="#39d353;#2a2941;#2a2941" keyTimes="0;0.12565;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="270" y="62" width="13" height="13" rx="3" fill="#26a641"><title>2026-01-14: 5 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.12565;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="270" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-15: 0 contributions</title></rect>
 <rect x="270" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-16: 0 contributions</title></rect>
 <rect x="270" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-01-17: 0 contributions</title></rect>
@@ -160,11 +160,11 @@
 <rect x="350" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-02-21: 0 contributions</title></rect>
 <rect x="366" y="14" width="13" height="13" rx="3" fill="#2a2941"><title>2026-02-22: 0 contributions</title></rect>
 <rect x="366" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2026-02-23: 0 contributions</title></rect>
-<rect x="366" y="46" width="13" height="13" rx="3" fill="#006d32"><title>2026-02-24: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.68586;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="366" y="46" width="13" height="13" rx="3" fill="#0e4429"><title>2026-02-24: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.68586;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="366" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2026-02-25: 0 contributions</title></rect>
 <rect x="366" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2026-02-26: 0 contributions</title></rect>
 <rect x="366" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2026-02-27: 0 contributions</title></rect>
-<rect x="366" y="110" width="13" height="13" rx="3" fill="#006d32"><title>2026-02-28: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.17277;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="366" y="110" width="13" height="13" rx="3" fill="#0e4429"><title>2026-02-28: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.17277;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="382" y="14" width="13" height="13" rx="3" fill="#0e4429"><title>2026-03-01: 1 contribution</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.67016;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="382" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2026-03-02: 0 contributions</title></rect>
 <rect x="382" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2026-03-03: 0 contributions</title></rect>
@@ -191,7 +191,7 @@
 <rect x="430" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2026-03-24: 0 contributions</title></rect>
 <rect x="430" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2026-03-25: 0 contributions</title></rect>
 <rect x="430" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2026-03-26: 0 contributions</title></rect>
-<rect x="430" y="94" width="13" height="13" rx="3" fill="#006d32"><title>2026-03-27: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.19895;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="430" y="94" width="13" height="13" rx="3" fill="#0e4429"><title>2026-03-27: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.19895;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="430" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-03-28: 0 contributions</title></rect>
 <rect x="446" y="14" width="13" height="13" rx="3" fill="#2a2941"><title>2026-03-29: 0 contributions</title></rect>
 <rect x="446" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2026-03-30: 0 contributions</title></rect>
@@ -231,7 +231,7 @@
 <rect x="526" y="14" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-03: 0 contributions</title></rect>
 <rect x="526" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-04: 0 contributions</title></rect>
 <rect x="526" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-05: 0 contributions</title></rect>
-<rect x="526" y="62" width="13" height="13" rx="3" fill="#006d32"><title>2026-05-06: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.30366;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="526" y="62" width="13" height="13" rx="3" fill="#0e4429"><title>2026-05-06: 2 contributions</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.30366;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="526" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-07: 0 contributions</title></rect>
 <rect x="526" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-08: 0 contributions</title></rect>
 <rect x="526" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-09: 0 contributions</title></rect>
@@ -243,7 +243,7 @@
 <rect x="542" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-15: 0 contributions</title></rect>
 <rect x="542" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-16: 0 contributions</title></rect>
 <rect x="558" y="14" width="13" height="13" rx="3" fill="#0e4429"><title>2026-05-17: 1 contribution</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.36126;1" dur="19.1s" repeatCount="indefinite"/></rect>
-<rect x="558" y="30" width="13" height="13" rx="3" fill="#26a641"><title>2026-05-18: 3 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.35602;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="558" y="30" width="13" height="13" rx="3" fill="#006d32"><title>2026-05-18: 3 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.35602;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="558" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-19: 0 contributions</title></rect>
 <rect x="558" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-20: 0 contributions</title></rect>
 <rect x="558" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2026-05-21: 0 contributions</title></rect>
@@ -354,7 +354,7 @@
 <rect x="798" y="78" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-03: 0 contributions</title></rect>
 <rect x="798" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-04: 0 contributions</title></rect>
 <rect x="798" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-05: 0 contributions</title></rect>
-<rect x="814" y="14" width="13" height="13" rx="3" fill="#39d353"><title>2026-09-06: 5 contributions</title><animate attributeName="fill" calcMode="discrete" values="#39d353;#2a2941;#2a2941" keyTimes="0;0.46597;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="814" y="14" width="13" height="13" rx="3" fill="#26a641"><title>2026-09-06: 5 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.46597;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="814" y="30" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-07: 0 contributions</title></rect>
 <rect x="814" y="46" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-08: 0 contributions</title></rect>
 <rect x="814" y="62" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-09: 0 contributions</title></rect>
@@ -368,8 +368,8 @@
 <rect x="830" y="78" width="13" height="13" rx="3" fill="#0e4429"><title>2026-09-17: 1 contribution</title><animate attributeName="fill" calcMode="discrete" values="#0e4429;#2a2941;#2a2941" keyTimes="0;0.50262;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="830" y="94" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-18: 0 contributions</title></rect>
 <rect x="830" y="110" width="13" height="13" rx="3" fill="#2a2941"><title>2026-09-19: 0 contributions</title></rect>
-<rect x="846" y="14" width="13" height="13" rx="3" fill="#26a641"><title>2026-09-20: 3 contributions</title><animate attributeName="fill" calcMode="discrete" values="#26a641;#2a2941;#2a2941" keyTimes="0;0.47644;1" dur="19.1s" repeatCount="indefinite"/></rect>
-<rect x="846" y="30" width="13" height="13" rx="3" fill="#2a2941"/>
+<rect x="846" y="14" width="13" height="13" rx="3" fill="#39d353"><title>2026-09-20: 9 contributions</title><animate attributeName="fill" calcMode="discrete" values="#39d353;#2a2941;#2a2941" keyTimes="0;0.47644;1" dur="19.1s" repeatCount="indefinite"/></rect>
+<rect x="846" y="30" width="13" height="13" rx="3" fill="#006d32"><title>2026-09-21: 4 contributions</title><animate attributeName="fill" calcMode="discrete" values="#006d32;#2a2941;#2a2941" keyTimes="0;0.48168;1" dur="19.1s" repeatCount="indefinite"/></rect>
 <rect x="846" y="46" width="13" height="13" rx="3" fill="#2a2941"/>
 <rect x="846" y="62" width="13" height="13" rx="3" fill="#2a2941"/>
 <rect x="846" y="78" width="13" height="13" rx="3" fill="#2a2941"/>
