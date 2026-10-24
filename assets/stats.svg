@@ -15,7 +15,7 @@
 <text x="220.0" y="154" font-size="11" fill="#a9fef7" text-anchor="middle">last 12 months</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.3s" fill="freeze"/>
-<text x="366.6666666666667" y="84" font-size="28" font-weight="700" fill="#fe428e" text-anchor="middle">5</text>
+<text x="366.6666666666667" y="84" font-size="28" font-weight="700" fill="#fe428e" text-anchor="middle">6</text>
 <text x="366.6666666666667" y="112" font-size="13" font-weight="600" fill="#fe428e" text-anchor="middle">Followers</text>
 <text x="366.6666666666667" y="136" font-size="11" fill="#a9fef7" text-anchor="middle">following 11</text>
 </g>
