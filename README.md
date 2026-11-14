@@ -224,3 +224,7 @@ Full list with credentials on [carloscasanova.dev](https://carloscasanova.dev).
 - 🌐 [carloscasanova.dev](https://carloscasanova.dev)
 - ✉️ [info@carloscasanova.dev](mailto:info@carloscasanova.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/carlos-casanova-4703b8137)
+
+## GitHub security
+
+[Controls, rationale, verification and rollback](docs/github-hardening.md).
