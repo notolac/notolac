@@ -1,9 +1,9 @@
 name: Update profile assets
 
-# Self-hosted profile cards: stats, streak, top languages and the snake game
-# over the real contribution grid. No third-party actions or services
-# involved — only the GitHub API (via GITHUB_TOKEN) and tools/generate.py
-# (stdlib only).
+# Generated profile cards: stats, streak, top languages and the snake game
+# over the real contribution grid. The generator uses the GitHub API and
+# tools/generate.py (stdlib only). Artifact transfer uses pinned GitHub actions;
+# the generator runs with read permissions, separately from the publisher.
 #
 # Pushes made with GITHUB_TOKEN do not trigger new workflow runs, so the
 # auto-commit below cannot cause an infinite loop.
@@ -19,15 +19,20 @@ on:
       - "tools/**"
       - ".github/workflows/profile.yml"
 
+permissions:
+  contents: read
+
 jobs:
   build:
     permissions:
-      contents: write
+      contents: read
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
 
       - name: Generate profile assets
         env:
@@ -35,6 +40,31 @@ jobs:
           GITHUB_USER: notolac
         run: python3 tools/generate.py
 
+      - name: Upload generated assets
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: profile-assets
+          path: assets/
+          retention-days: 1
+          if-no-files-found: error
+
+  publish:
+    needs: build
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out publication target
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: true
+      - name: Download generated data
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8
+        with:
+          name: profile-assets
+          path: assets/
+      # This job never runs tools/generate.py or scripts from the checkout.
       - name: Commit refreshed assets
         run: |
           git config user.name "github-actions[bot]"
